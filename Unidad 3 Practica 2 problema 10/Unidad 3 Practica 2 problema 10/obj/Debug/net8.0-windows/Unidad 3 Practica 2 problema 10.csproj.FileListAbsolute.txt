@@ -1,0 +1,16 @@
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Practica 2 problema 10\Unidad 3 Practica 2 problema 10\bin\Debug\net8.0-windows\Unidad 3 Practica 2 problema 10.exe
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Practica 2 problema 10\Unidad 3 Practica 2 problema 10\bin\Debug\net8.0-windows\Unidad 3 Practica 2 problema 10.deps.json
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Practica 2 problema 10\Unidad 3 Practica 2 problema 10\bin\Debug\net8.0-windows\Unidad 3 Practica 2 problema 10.runtimeconfig.json
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Practica 2 problema 10\Unidad 3 Practica 2 problema 10\bin\Debug\net8.0-windows\Unidad 3 Practica 2 problema 10.dll
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Practica 2 problema 10\Unidad 3 Practica 2 problema 10\bin\Debug\net8.0-windows\Unidad 3 Practica 2 problema 10.pdb
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Practica 2 problema 10\Unidad 3 Practica 2 problema 10\obj\Debug\net8.0-windows\Unidad_3_Practica_2_problema_10.Form1.resources
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Practica 2 problema 10\Unidad 3 Practica 2 problema 10\obj\Debug\net8.0-windows\Unidad 3 Practica 2 problema 10.csproj.GenerateResource.cache
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Practica 2 problema 10\Unidad 3 Practica 2 problema 10\obj\Debug\net8.0-windows\Unidad 3 Practica 2 problema 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Practica 2 problema 10\Unidad 3 Practica 2 problema 10\obj\Debug\net8.0-windows\Unidad 3 Practica 2 problema 10.AssemblyInfoInputs.cache
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Practica 2 problema 10\Unidad 3 Practica 2 problema 10\obj\Debug\net8.0-windows\Unidad 3 Practica 2 problema 10.AssemblyInfo.cs
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Practica 2 problema 10\Unidad 3 Practica 2 problema 10\obj\Debug\net8.0-windows\Unidad 3 Practica 2 problema 10.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Practica 2 problema 10\Unidad 3 Practica 2 problema 10\obj\Debug\net8.0-windows\Unidad 3 Practica 2 problema 10.dll
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Practica 2 problema 10\Unidad 3 Practica 2 problema 10\obj\Debug\net8.0-windows\refint\Unidad 3 Practica 2 problema 10.dll
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Practica 2 problema 10\Unidad 3 Practica 2 problema 10\obj\Debug\net8.0-windows\Unidad 3 Practica 2 problema 10.pdb
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Practica 2 problema 10\Unidad 3 Practica 2 problema 10\obj\Debug\net8.0-windows\Unidad 3 Practica 2 problema 10.genruntimeconfig.cache
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Practica 2 problema 10\Unidad 3 Practica 2 problema 10\obj\Debug\net8.0-windows\ref\Unidad 3 Practica 2 problema 10.dll
