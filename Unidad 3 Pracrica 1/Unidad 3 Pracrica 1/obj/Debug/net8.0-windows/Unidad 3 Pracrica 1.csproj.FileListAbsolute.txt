@@ -1,0 +1,16 @@
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Pracrica 1\Unidad 3 Pracrica 1\bin\Debug\net8.0-windows\Unidad 3 Pracrica 1.exe
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Pracrica 1\Unidad 3 Pracrica 1\bin\Debug\net8.0-windows\Unidad 3 Pracrica 1.deps.json
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Pracrica 1\Unidad 3 Pracrica 1\bin\Debug\net8.0-windows\Unidad 3 Pracrica 1.runtimeconfig.json
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Pracrica 1\Unidad 3 Pracrica 1\bin\Debug\net8.0-windows\Unidad 3 Pracrica 1.dll
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Pracrica 1\Unidad 3 Pracrica 1\bin\Debug\net8.0-windows\Unidad 3 Pracrica 1.pdb
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Pracrica 1\Unidad 3 Pracrica 1\obj\Debug\net8.0-windows\Unidad_3_Pracrica_1.Form1.resources
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Pracrica 1\Unidad 3 Pracrica 1\obj\Debug\net8.0-windows\Unidad 3 Pracrica 1.csproj.GenerateResource.cache
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Pracrica 1\Unidad 3 Pracrica 1\obj\Debug\net8.0-windows\Unidad 3 Pracrica 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Pracrica 1\Unidad 3 Pracrica 1\obj\Debug\net8.0-windows\Unidad 3 Pracrica 1.AssemblyInfoInputs.cache
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Pracrica 1\Unidad 3 Pracrica 1\obj\Debug\net8.0-windows\Unidad 3 Pracrica 1.AssemblyInfo.cs
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Pracrica 1\Unidad 3 Pracrica 1\obj\Debug\net8.0-windows\Unidad 3 Pracrica 1.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Pracrica 1\Unidad 3 Pracrica 1\obj\Debug\net8.0-windows\Unidad 3 Pracrica 1.dll
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Pracrica 1\Unidad 3 Pracrica 1\obj\Debug\net8.0-windows\refint\Unidad 3 Pracrica 1.dll
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Pracrica 1\Unidad 3 Pracrica 1\obj\Debug\net8.0-windows\Unidad 3 Pracrica 1.pdb
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Pracrica 1\Unidad 3 Pracrica 1\obj\Debug\net8.0-windows\Unidad 3 Pracrica 1.genruntimeconfig.cache
+C:\Users\Windows 11\Desktop\visual studio\Unidad 3 Pracrica 1\Unidad 3 Pracrica 1\obj\Debug\net8.0-windows\ref\Unidad 3 Pracrica 1.dll
